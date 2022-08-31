@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\obj\Debug\FormVet.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\obj\Debug\FormVet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\obj\Debug\FormVet.Properties.Resources.resources
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\obj\Debug\FormVet.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\obj\Debug\FormVet.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\bin\Debug\FormVet.exe.config
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\bin\Debug\FormVet.exe
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\bin\Debug\FormVet.pdb
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\obj\Debug\FormVet.exe
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\obj\Debug\FormVet.pdb
+C:\Users\Usuario\Documents\Cursos\Tecnicatura en Programación\2° semestre\Programación II\1 Unidad\Veterinaria\FormVet\obj\Debug\FormVet.presentacion.FormVet.resources
